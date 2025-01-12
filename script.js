@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const g = document.querySelector('.g');
 const o = document.querySelector('.o');
 const p = document.querySelector('.p');
