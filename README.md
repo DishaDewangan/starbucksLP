@@ -8,7 +8,6 @@ This is a responsive and animated landing page built using HTML, CSS, and JavaSc
 <img src="https://github.com/user-attachments/assets/fca89390-3d3e-46cc-b783-8cce991a0cc2" alt="Screenshot 2" width="500px">
 <img src="https://github.com/user-attachments/assets/another-image-id" alt="Screenshot 3" width="500px">
 
-
 ## Features
 - **Hover Effects**: Interactive hover effects on navigation links and images, enhancing user engagement.
 - **Smooth Animations**: JavaScript-powered animations for elements like images and text, creating an engaging visual experience.
