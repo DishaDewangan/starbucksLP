@@ -1,11 +1,13 @@
 # starbucksLP
 This is a responsive and animated landing page built using HTML, CSS, and JavaScript. The project features a clean and modern design with a smooth user experience, including animations and hover effects.
 
+
 ## Screenshots
 
-<img src="C:\Users\ASUS\Pictures\Screenshots\slp\Screenshot 2025-01-13 031630.png" alt="Screenshot 1" width="500"/>
-<img src="C:\Users\ASUS\Pictures\Screenshots\slp\Screenshot 2025-01-13 032817.png" alt="Screenshot 2" width="500"/>
-<img src="C:\Users\ASUS\Pictures\Screenshots\slp\Screenshot 2025-01-13 032849.png" alt="Screenshot 3" width="500"/>
+<img src="https://github.com/user-attachments/assets/9b11f40a-363a-4cb1-b17b-02e86d3b33e5" alt="Screenshot 1" width="500px">
+<img src="https://github.com/user-attachments/assets/fca89390-3d3e-46cc-b783-8cce991a0cc2" alt="Screenshot 2" width="500px">
+<img src="https://github.com/user-attachments/assets/another-image-id" alt="Screenshot 3" width="500px">
+
 
 ## Features
 - **Hover Effects**: Interactive hover effects on navigation links and images, enhancing user engagement.
